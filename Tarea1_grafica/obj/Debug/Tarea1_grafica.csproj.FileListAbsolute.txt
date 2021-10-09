@@ -1,0 +1,11 @@
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\Tarea1_grafica.exe.config
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\Tarea1_grafica.exe
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\Tarea1_grafica.pdb
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\OpenTK.dll
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\OpenTK.pdb
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\bin\Debug\OpenTK.xml
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\obj\Debug\Tarea1_grafica.csproj.AssemblyReference.cache
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\obj\Debug\Tarea1_grafica.csproj.CoreCompileInputs.cache
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\obj\Debug\Tarea1_grafica.csproj.CopyComplete
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\obj\Debug\Tarea1_grafica.exe
+C:\Users\yordi\source\repos\Tarea1_grafica\Tarea1_grafica\obj\Debug\Tarea1_grafica.pdb
